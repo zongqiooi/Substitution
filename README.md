@@ -11,7 +11,7 @@ A message like HELLO, then, would be encrypted as FOLLE, replacing each of the l
 # How to Run the Project
 1) Download all the files.
 2) Open the "substitution.c" file and run the project.
-3) Run the command `./substitution [24 unique uppercase characters]`
+3) Run the command `./substitution key`, where key is 24 unique uppercase characters. 
 
 # Some Screenshots from the Program 
 ![cs50 pset 2 ss1](https://user-images.githubusercontent.com/95561298/178780713-7ed243c2-bde3-45c6-ba51-61721e1e5970.png)
